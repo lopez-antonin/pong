@@ -10,8 +10,10 @@ J'ai décidé de me lancer dans ce projet pour les raisons suivantes :
 ## Captures d'écran
 
 <div align="center">
-  <img src="screenshots/menu_accueil.png" alt="Menu Accueil" width="200" style="margin-right: 10px;">
-  <img src="screenshots/jeu.png" alt="Jeu" width="200" style="margin-right: 10px;">
+  <img src="screenshots/menu_accueil.png" alt="Menu Accueil" width="200">
+  <img width="50" />
+  <img src="screenshots/jeu.png" alt="Jeu" width="200">
+  <img width="50" />
   <img src="screenshots/menu_fin.png" alt="Menu Fin" width="200">
 </div>
 
