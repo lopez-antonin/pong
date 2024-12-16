@@ -8,9 +8,18 @@ J'ai décidé de me lancer dans ce projet pour les raisons suivantes :
 - Publier une application sur le Play Store.
 
 ## Captures d'écran
-![Capture d'écran](screenshots/menu_accueil.png)
-![Capture d'écran](screenshots/jeu.png)
-![Capture d'écran](screenshots/menu_fin.png)
+
+<p align="center">
+  <img src="screenshots/menu_accueil.png" alt="Menu Accueil" width="400">
+</p>
+
+<p align="center">
+  <img src="screenshots/jeu.png" alt="Jeu" width="400">
+</p>
+
+<p align="center">
+  <img src="screenshots/menu_fin.png" alt="Menu Fin" width="400">
+</p>
 
 ## Installation
 1. Téléchargez le fichier APK depuis ce dépôt :
