@@ -19,7 +19,7 @@ J'ai décidé de me lancer dans ce projet pour les raisons suivantes :
 
 ## Installation
 1. Téléchargez le fichier APK depuis ce dépôt :
-   [Télécharger app-release.apk](releases/app-v1.6-release.apk)
+   [Télécharger app-v1.6-release.apk](releases/app-v1.6-release.apk)
 2. Activez l'installation des applications provenant de sources inconnues sur votre appareil :
    - Allez dans **Paramètres > Sécurité > Sources inconnues**.
 3. Installez le fichier APK en cliquant dessus.
