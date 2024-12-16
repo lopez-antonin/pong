@@ -9,17 +9,11 @@ J'ai décidé de me lancer dans ce projet pour les raisons suivantes :
 
 ## Captures d'écran
 
-<p align="center">
-  <img src="screenshots/menu_accueil.png" alt="Menu Accueil" width="400">
-</p>
-
-<p align="center">
-  <img src="screenshots/jeu.png" alt="Jeu" width="400">
-</p>
-
-<p align="center">
-  <img src="screenshots/menu_fin.png" alt="Menu Fin" width="400">
-</p>
+<div align="center">
+  <img src="screenshots/menu_accueil.png" alt="Menu Accueil" width="100">
+  <img src="screenshots/jeu.png" alt="Jeu" width="100">
+  <img src="screenshots/menu_fin.png" alt="Menu Fin" width="100">
+</div>
 
 ## Installation
 1. Téléchargez le fichier APK depuis ce dépôt :
